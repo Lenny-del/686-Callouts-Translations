@@ -55,21 +55,21 @@
 	/// Notifications related to AI Voices.
 	<AI>
 		<AIVOICES><![CDATA[686 Callouts AI Voices:]]></AIVOICES>
-		<VOICEDOWNLOAD><![CDATA[Status: Downloading ~n~~y~{0} GB~w~ / ~g~{1} GB~w~ [~b~{2}%~w~]]]></VOICEDOWNLOAD>
-		<VOICEDOWNLOAD><![CDATA[Status: Installing ~n~~y~{0}~w~ / ~g~{1}~w~ files [~b~{2}%~w~]]]></VOICEDOWNLOAD>
-		<VOICEDOWNLOAD><![CDATA[Status: ~g~Automatically installed~w~.]]></VOICEDOWNLOAD>
+		<VOICEDOWNLOAD><![CDATA[Status: Herunterladen... ~n~~y~{0} GB~w~ / ~g~{1} GB~w~ [~b~{2}%~w~]]]></VOICEDOWNLOAD>
+		<VOICEDOWNLOAD><![CDATA[Status: Installiere ~n~~y~{0}~w~ / ~g~{1}~w~ Dateien [~b~{2}%~w~]]]></VOICEDOWNLOAD>
+		<VOICEDOWNLOAD><![CDATA[Status: ~g~Automatisch installiert~w~.]]></VOICEDOWNLOAD>
 	</AI> 
 	
 	/// Notifications relating to the Backup Helicopter Search Team.
 	<SEARCHHELI>
-		<REQUESTHELI><![CDATA[Press ~y~{0}~w~ in the next 10 seconds if you'd like support from a ~b~search helicopter~w~.]]></REQUESTHELI>
-		<ISAVAILABLE><![CDATA[A search helicopter is ~g~available to assist~w~.]]></ISAVAILABLE>
-		<ISAVAILABLE><![CDATA[A search helicopter was ~r~not dispatched to assist~w~.]]></ISAVAILABLE>
-		<LOCATEDPED><![CDATA[Air support has ~g~located the ped~w~ in the {0} zone and will remain in the area until you arrive. ~y~Check your map~w~.]]></LOCATEDPED>
-		<ZONESEARCH><![CDATA[Air support is heading to the {0} zone.]]></ZONESEARCH>
-		<ZONESEARCH><![CDATA[Air support is heading to the {0} zone. The {1} zone was clear.]]></ZONESEARCH>
-		<ZONESEARCH><![CDATA[~b~blue~w~]]></ZONESEARCH>
+		<REQUESTHELI><![CDATA[Drücke ~y~{0}~w~ in den nächsten 10 Sekunden falls du Unterstützung von einem ~b~Polizeihubschrauber~w~ benötigst.]]></REQUESTHELI>
+		<ISAVAILABLE><![CDATA[Ein Polizeihubschrauber ~g~steht zur Unterstützung bereit~w~.]]></ISAVAILABLE>
+		<ISAVAILABLE><![CDATA[Ein Polizeihubschrauber ~r~wurde nicht angefordert~w~.]]></ISAVAILABLE>
+		<LOCATEDPED><![CDATA[Der Polizeihubschrauber hat ~g~die gesuchte Person~w~ im Bereich {0} gefunden und wird dort bis zu deiner Ankunft verbleiben. ~y~Überprüfe deine Karte~w~.]]></LOCATEDPED>
+		<ZONESEARCH><![CDATA[Der Polizeihubschrauber ist auf dem Weg nach {0}.]]></ZONESEARCH>
+		<ZONESEARCH><![CDATA[Der Polizeihubschrauber ist auf dem Weg nach {0}. Der Bereich {1} ist negativ.]]></ZONESEARCH>
+		<ZONESEARCH><![CDATA[~b~blau~w~]]></ZONESEARCH>
 		<ZONESEARCH><![CDATA[~o~orange~w~]]></ZONESEARCH>
-		<ZONESEARCH><![CDATA[~g~green~w~]]></ZONESEARCH>
+		<ZONESEARCH><![CDATA[~g~grün~w~]]></ZONESEARCH>
 	</SEARCHHELI>
 </GENERAL> 
