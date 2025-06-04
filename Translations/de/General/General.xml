@@ -65,11 +65,11 @@
 		<REQUESTHELI><![CDATA[Drücke ~y~{0}~w~ in den nächsten 10 Sekunden falls du Unterstützung von einem ~b~Polizeihubschrauber~w~ benötigst.]]></REQUESTHELI>
 		<ISAVAILABLE><![CDATA[Ein Polizeihubschrauber ~g~steht zur Unterstützung bereit~w~.]]></ISAVAILABLE>
 		<ISAVAILABLE><![CDATA[Ein Polizeihubschrauber ~r~wurde nicht angefordert~w~.]]></ISAVAILABLE>
-		<LOCATEDPED><![CDATA[Der Polizeihubschrauber hat ~g~die gesuchte Person~w~ im Bereich {0} gefunden und wird dort bis zu deiner Ankunft verbleiben. ~y~Überprüfe deine Karte~w~.]]></LOCATEDPED>
-		<ZONESEARCH><![CDATA[Der Polizeihubschrauber ist auf dem Weg nach {0}.]]></ZONESEARCH>
-		<ZONESEARCH><![CDATA[Der Polizeihubschrauber ist auf dem Weg nach {0}. Der Bereich {1} ist negativ.]]></ZONESEARCH>
-		<ZONESEARCH><![CDATA[~b~blau~w~]]></ZONESEARCH>
-		<ZONESEARCH><![CDATA[~o~orange~w~]]></ZONESEARCH>
-		<ZONESEARCH><![CDATA[~g~grün~w~]]></ZONESEARCH>
+		<LOCATEDPED><![CDATA[Der Polizeihubschrauber hat ~g~die gesuchte Person~w~ im {0} Bereich gefunden und wird dort bis zu deiner Ankunft verbleiben. ~y~Überprüfe deine Karte~w~.]]></LOCATEDPED>
+		<ZONESEARCH><![CDATA[Der Polizeihubschrauber ist auf dem Weg zum {0} Bereich.]]></ZONESEARCH>
+		<ZONESEARCH><![CDATA[Der Polizeihubschrauber ist auf dem Weg zum {0} Bereich. Im {1} Bereich wurde niemand gefunden.]]></ZONESEARCH>
+		<ZONESEARCH><![CDATA[~b~blauen~w~]]></ZONESEARCH>
+		<ZONESEARCH><![CDATA[~o~orangenen~w~]]></ZONESEARCH>
+		<ZONESEARCH><![CDATA[~g~grünen~w~]]></ZONESEARCH>
 	</SEARCHHELI>
 </GENERAL> 
